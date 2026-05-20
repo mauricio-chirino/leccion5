@@ -1,5 +1,5 @@
-# leccion5
-estructra de directorios
+## leccion5
+## estructra de directorios
 ```src/
 ├─ main.js
 ├─ App.vue
