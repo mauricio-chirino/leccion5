@@ -1,6 +1,8 @@
 ## leccion5
-## estructra de directorios
-```src/
+---
+Estructra de directorios
+```
+src/
 ├─ main.js
 ├─ App.vue
 ├─ router/
